@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Team projects related to software development, quality assurance, and GitHub repositories. I’m especially interested in testing applications, debugging, and improving workflows.
 - 📫 How to reach me: You can reach me on chinenyegikeh@gmail.com
 - 😄 Pronouns: her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am jovial
 
 <!---
 Chinenye93/Chinenye93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
